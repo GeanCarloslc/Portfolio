@@ -1,0 +1,387 @@
+/***Topo***/
+
+.img-logo{
+	width: 100px;
+
+}
+
+html, body, #home {
+	height: 100%;
+	overflow-x: hidden;
+}
+
+nav.navbar-transparente {
+	padding: 15px 0px;
+    background: #80808099;
+                  
+}
+
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+	color: #9bf0e1;
+}
+
+.navbar-light .navbar-toggler {
+    color: rgba(255,255,255,.5);
+    
+    border-color: rgba(255,255,255,0.5);
+}
+
+.divisor {
+	width: 1px;
+	background: white;
+	margin: 12px 15px;
+}
+
+#topo h2 {
+	font-weight: 900;
+	letter-spacing: -0.05em;
+    margin-bottom: 40px;
+    color: white;
+	font-size: 30px;
+	text-shadow: 1px 1px 1px #000, -1px 1px 1px #000, 
+	1px -1px 1px #000, -1px -1px 1px #000;
+    font-family: Montserrat;
+}
+
+/***Conteudo Principal ***/
+
+.capa {
+	text-align: center;
+}
+
+body {
+    background: url(../img/Background.jpg);			
+	background-attachment: fixed;
+	font-family: Helvetica,Arial,sans-serif;
+}
+
+h1 {
+	font-weight: 900;
+	letter-spacing: -0.05em;
+    margin-bottom: 20px;
+    color: white;
+	font-family: Montserrat;
+	text-shadow: 1px 1px 1px #000, -1px 1px 1px #000, 
+	1px -1px 1px #000, -1px -1px 1px #000;       
+}
+
+#home h2{
+	text-shadow: 1px 1px 1px #000, -1px 1px 1px #000, 
+	1px -1px 1px #000, -1px -1px 1px #000;
+}
+
+
+
+h2 {
+	font-weight: 900;
+	letter-spacing: -0.05em;
+    margin-bottom: 40px;
+    color: white;
+    font-size: 30px;
+    font-family: Montserrat;
+}
+
+h3 {
+
+	font-weight: 900;
+	letter-spacing: -0.05em;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 20px;
+	font-family: Montserrat;
+	
+}
+
+p{
+	text-align: justify;
+	color: white;
+	margin-bottom: 30px;
+	
+}
+
+/*** Conhecimentos ***/
+
+/***GML**/
+
+#projeto-01 {
+
+	background: black;
+	border-top: 1px solid #8c8f8d99;
+	border-bottom: 1px solid #8c8f8d99;
+}
+
+.caixa {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.gml {
+	padding: 10px 0;
+
+}
+.img-border {
+	border: 4px solid #8c8f8d99;
+
+}
+
+#projeto-01 h2{
+
+
+    margin-bottom: 40px;
+    font-size: 30px;
+
+}
+
+#projeto-01 h3{
+
+    margin-bottom: 20px;
+    font-size: 20px;
+	
+}
+
+.fa-check {
+	color: green;
+
+}
+
+#projeto-01 .btn {
+
+	padding: 2px 7px;
+	margin-right: 10px;
+
+}
+
+
+#projeto-01 .espacamento {
+	
+	margin: 40px 0;
+
+}
+
+/***Fim GML**/
+
+/***Site MakeUp**/
+
+#projeto-02 {
+	
+}
+
+.espacamento {
+	margin: 10px 0;
+
+}
+
+#projeto-02 h2{
+
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+#projeto-02 h3{
+
+    margin-bottom: 10px;
+    font-size: 20px;
+
+	
+}
+
+#projeto-02 .btn {
+
+	padding: 2px 7px;
+	margin-right: 10px;
+
+}
+
+.fa-check {
+	color: green;
+
+}
+
+.back-site {
+	background: #8c8f8d99;
+}
+
+
+
+.carousel-control-next, .carousel-control-prev {
+	color: #8c8f8d;
+}
+
+.carousel-control-next:hover, .carousel-control-prev:hover {
+	color: #8c8f8d;
+}
+
+.carousel-indicators li {
+	background: #8c8f8d99;
+	
+}
+
+.carousel-indicators .active {
+	background-color: #8c8f8d99;
+}
+
+/***Fim Site MakeUp***/
+
+/***Conhecimentos***/
+
+#certificacoes {
+
+	background: black;
+	border-top: 1px solid #8c8f8d99;
+	border-bottom: 1px solid #8c8f8d99;
+}
+
+#certificacoes h2{
+
+    font-weight: 900;
+	letter-spacing: -0.05em;
+    margin-bottom: 5px;
+    color: white;
+    font-size: 30px;
+    font-family: Montserrat;
+}
+
+#certificacoes h3{
+
+    font-weight: 900;
+	letter-spacing: -0.05em;
+    color: white;
+    font-size: 20px;
+	font-family: Montserrat;
+	
+}
+
+.fa-check {
+	color: green;
+
+}
+
+#certificacoes .btn {
+
+	padding: 2px 7px;
+	margin-right: 10px;
+
+}
+
+.img-pad {
+	padding: 25px;
+}
+
+/***Fim Conhecimentos***/
+
+/***Rodapé***/
+
+footer  {
+	background: #808080;
+	padding: 50px 0px 20px 0px;
+}
+
+footer a{
+	color: white;	
+}
+
+footer a:hover{
+
+	color: #9bf0e1;
+	text-decoration: none;	
+}
+
+/***Contato***/
+
+#contato{
+	height: 100%;
+	overflow-x: hidden;
+	
+}
+
+.text-form h2{
+	margin-bottom: 30px;
+	
+}
+
+.display-center {
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  margin-bottom: 10px;
+}
+
+/***MediaQueries***/
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+	.display-1 {
+		font-size: 70px;
+	}
+	
+	h2 {
+		font-size: 20px;
+	}
+
+	.img-bt-sm {
+		margin-bottom: 50px;
+
+	}
+	.img-pad {
+		padding-bottom: 0px;
+	}
+	.img-logo {
+		margin-left: 20px;
+		width: 75px;
+
+	}
+
+	.navbar-toggler {
+		margin-right: 15px;
+	}
+
+	.nav-item{
+		
+		margin-left: 20px;
+	}
+	.text-hamburguer{
+		margin-top: 10px;
+	}
+
+	/***Contato***/
+	#contato .display-3{
+		font-size: 60px;
+
+	}
+	
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+	
+	
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+	
+	
+	
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+	
+}
+
+
+
+
+
