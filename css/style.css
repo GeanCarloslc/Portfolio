@@ -166,9 +166,6 @@ p{
 
 /***Site MakeUp**/
 
-#projeto-02 {
-	
-}
 
 .espacamento {
 	margin: 10px 0;
@@ -345,13 +342,19 @@ footer a:hover{
 		
 		margin-left: 20px;
 	}
-	.text-hamburguer{
+	.text-hamburguer {
 		margin-top: 10px;
 	}
 
 	/***Contato***/
 	#contato .display-3{
 		font-size: 60px;
+
+	}
+
+	.mobile {
+		margin-bottom: 65px;
+
 
 	}
 	
